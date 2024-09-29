@@ -1,2 +1,3 @@
 # Demo
-this is my first repository
+this is my  git first repository
+author - pranjal
